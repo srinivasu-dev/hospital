@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
    "publishConfig": {
-    "registry": "http://3.111.219.86:8081/repository/npm-server/"
+    "registry": "http://3.111.219.86:8081/repository/npmrepo/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
